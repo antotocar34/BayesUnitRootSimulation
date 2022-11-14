@@ -1,0 +1,46 @@
+\begin{thebibliography}{}
+
+\bibitem[Benjamin and Berger, 2019]{benjamin2019three}
+Benjamin, D.~J. and Berger, J.~O. (2019).
+\newblock Three recommendations for improving the use of p-values.
+\newblock {\em The American Statistician}, 73(sup1):186--191.
+
+\bibitem[Betancourt, 2017]{betancourt2017conceptual}
+Betancourt, M. (2017).
+\newblock A conceptual introduction to hamiltonian monte carlo.
+\newblock {\em arXiv preprint arXiv:1701.02434}.
+
+\bibitem[Carpenter et~al., 2017]{bleepbleep}
+Carpenter, B., Gelman, A., Hoffman, M.~D., Lee, D., Goodrich, B., Betancourt,
+  M., Brubaker, M., Guo, J., Li, P., and Riddell, A. (2017).
+\newblock Stan: A probabilistic programming language.
+\newblock {\em Journal of statistical software}, 76(1).
+
+\bibitem[Del~Moral et~al., 2006]{del2006sequential}
+Del~Moral, P., Doucet, A., and Jasra, A. (2006).
+\newblock Sequential monte carlo samplers.
+\newblock {\em Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, 68(3):411--436.
+
+\bibitem[Gelman et~al., 1995]{gelman1995bayesian}
+Gelman, A., Carlin, J.~B., Stern, H.~S., and Rubin, D.~B. (1995).
+\newblock {\em Bayesian data analysis}.
+\newblock Chapman and Hall/CRC.
+
+\bibitem[Johnson and Rossell, 2010]{johnson2010use}
+Johnson, V.~E. and Rossell, D. (2010).
+\newblock On the use of non-local prior densities in bayesian hypothesis tests.
+\newblock {\em Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, 72(2):143--170.
+
+\bibitem[So and Ll, 1999]{so1999bayesian}
+So, M.~K. and Ll, W. (1999).
+\newblock Bayesian unit-root testing in stochastic volatility models.
+\newblock {\em Journal of Business \& Economic Statistics}, 17(4):491--496.
+
+\bibitem[Tsay, 2005]{tsay2005analysis}
+Tsay, R.~S. (2005).
+\newblock {\em Analysis of financial time series}.
+\newblock John wiley \& sons.
+
+\end{thebibliography}
